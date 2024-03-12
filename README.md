@@ -25,7 +25,7 @@ What things you need to install the software and how to install them:
 node.js
 npm
 
-## Installing
+### Installing
 
 git clone https://github.com/yourusername/your-repository-name.git
 
@@ -36,3 +36,9 @@ npm start
 
 Navigate to the home page at http://localhost:3000.
 Enter a product code into the form to check its list price in TRY, its converted price from Euros (if applicable), and compare prices across various online stores.
+
+### Built With
+Node.js - The runtime environment
+Express - The web framework used
+Axios - Promise based HTTP client
+Cheerio - Fast, flexible & lean implementation of core jQuery designed specifically for the server
